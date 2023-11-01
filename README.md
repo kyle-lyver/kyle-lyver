@@ -5,4 +5,4 @@ I am a student in Canada learning how to code in TypeScript and Python. I use th
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle-lyver&hide=contribs,prs)
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.pn](https://github.com/kyle-lyver/kyle-lyver/blob/main/codememe.png)https://github.com/kyle-lyver/kyle-lyver/blob/main/codememe.png)
