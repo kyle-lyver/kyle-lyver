@@ -5,4 +5,4 @@ I am a student in Canada learning how to code in TypeScript and Python. I use th
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyle-lyver&hide=contribs,prs)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Meme about coding.](https://github.com/kyle-lyver/kyle-lyver/blob/main/codememe.png)
