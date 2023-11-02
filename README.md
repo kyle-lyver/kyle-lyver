@@ -1,8 +1,11 @@
 ### Kyle Lyver
 
 I am a student in Canada learning how to code in TypeScript and Python. I use these skills that I am learning to use different features of a BBC Micro:Bit.
+
 I go to Saint Mother Teresa High School
+
 I enjoy reading, listening to music and going outdoors
+
 My favourite subject is History
 
 
